@@ -1,7 +1,7 @@
 {
     "name": "team/package",
     "description": "Sample package within a deep structure",
-    "version": "0.1",
+    "version": "0.2",
     "authors": [
         {
             "name": "Alwin Schoemaker",
